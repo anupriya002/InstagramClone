@@ -1,6 +1,13 @@
 # Instagram Clone 
 
-This repository holds the code for a instagram clone. It was built using: React.js, Next.js, Tailwind CSS, Firebase(V9), NextAuth, Recoil and TypeScript.
+This repository holds the code for a instagram clone. It was built using:
+<li> REACT.js </li>
+<li> Next.js </li>
+<li> Tailwind CSS </li>
+<li> Firebase(V9) </li>
+<li> NextAuth </li>
+<li> Recoil </li>
+<li> TypeScript </li> 
 
 <h2>Main Page </h2>
 <img width="1350" alt="Screen Shot 2022-10-24 at 9 47 06 PM" src="https://user-images.githubusercontent.com/90209788/197663156-7cee757c-6bfc-4a8d-9c14-a5def50a9f9b.png">
