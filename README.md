@@ -1,6 +1,6 @@
 # Instagram Clone 
 
-This repository holds the code for a instagram clone. It was built using:
+This repository holds the code for an Instagram clone. It was built using:
 <li> REACT.js </li>
 <li> Next.js </li>
 <li> Tailwind CSS </li>
