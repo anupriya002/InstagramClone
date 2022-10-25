@@ -1,4 +1,4 @@
-# Next.js + Tailwind CSS Example
+# Instagram Clone 
 
 This repository holds the code for a instagram clone. It was built using: React.js, Next.js, Tailwind CSS, Firebase(V9), NextAuth, Recoil and TypeScript.
 
