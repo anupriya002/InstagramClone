@@ -23,8 +23,4 @@ This repository holds the code for an Instagram clone. It was built using:
 <img width="1241" alt="Screen Shot 2022-10-24 at 9 51 36 PM" src="https://user-images.githubusercontent.com/90209788/197663528-f4e1d255-3721-4ddb-a9ff-3bfeee69078c.png">
 
 
-## How to run the project locally
-1) Clone a local copy of the project onto your machine
-2) Open your terminal and navigate to the project
-3) Run the command: "npm run dev"
-4) In your browser, navigate to the link: http://localhost:3000
+
